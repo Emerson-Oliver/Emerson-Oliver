@@ -3,7 +3,7 @@
 
 
 - 💻 Atualmente trabalho como analista de suporte
-- 💻 Estudando Mikrotik | Cisco | MySQL    
+- 💻 Estudando Mikrotik | Cisco    
 - 📧 Contate-me: emerson.520@outlook.com
 
 <div style="display: inline_block"><br>
