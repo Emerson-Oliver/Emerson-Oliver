@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/mikrotik.png" width="18" height="18" align="center" alt="MikroTik">
   <img src="https://simpleicons.org/icons/cisco.svg" width="18" height="18" style="filter: invert(1);" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg width="18" height="18" style="filter: invert(1);" align="center"" />
 </div>
 
   ##
