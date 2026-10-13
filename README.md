@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>          
 
-* <img src="URL_DO_ICONE_MIKROTIK.svg" width="18" height="18" alt="MikroTik"> **MikroTik**
+* <img src="./assets/mikrotik-icon.svg" width="18" height="18" alt="MikroTik"> **MikroTik**
 * <img src="https://simpleicons.org/icons/cisco.svg" width="18" height="18" alt="Cisco"> **Cisco**
 <img align="center" alt="Emerson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
