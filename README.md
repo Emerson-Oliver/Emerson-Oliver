@@ -7,9 +7,8 @@
 - 📧 Contate-me: emerson.520@outlook.com
 
 <div style="display: inline_block"><br>
-  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/mikrotik.png" width="18" height="18" align="center" alt="MikroTik">
-  <img src="https://simpleicons.org/icons/cisco.svg" width="18" height="18" style="filter: invert(1);" align="center">
-  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/mikrotik.png" width="18" height="18" align="center">
+  <img src="./assets/mikrotik-icon.svg" width="18" height="18" style="filter: invert(1); padding-right: 5px;" align="center" alt="MikroTik"> **MikroTik**
+  <img src="https://simpleicons.org/icons/cisco.svg" width="18" height="18" style="filter: invert(1);" align="center">  
 </div>
 
   ##
